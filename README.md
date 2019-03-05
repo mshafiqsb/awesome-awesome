@@ -1,15 +1,17 @@
->## Android
+# Awesome List
 
-### Source
+> Android
+
+#### Source
 * [Material-Animations](https://github.com/lgvalle/Material-Animations)
     - Activity transition nasıl yapılır ?
     - Fragment transition nasıl yapılır ?
 
-### Libs
+#### Libs
 * [Chuck](https://github.com/jgilfelt/chuck)
     - An in-app HTTP inspector for Android OkHttp clients
-    - Uygulamanın yaptığı requestleri görülebilir, hata olarak dönen responselar incelenebilir.
-### Util
+    - Uygulama içerisindeki rest istekleri (request-response) izlenir
+#### Util
 * [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)
     - View transition
 
@@ -55,9 +57,6 @@
 * [EventBus](https://github.com/greenrobot/EventBus)
     - EventBus  
 
-* [Gradle-RetroLamnda](https://github.com/evant/gradle-retrolambda)
-    - Android Java 8 Compatibility  
-
 * [Glide](https://github.com/bumptech/glide)
     - Android image kontrol  
 
@@ -74,7 +73,7 @@
 * [Scribe Java](https://github.com/scribejava/scribejava)
     - Android OAuth
 
-### UI
+#### UI
 
 * [AppIntro](https://github.com/apl-devs/AppIntro)
     - Tanıtım sayfası
@@ -121,15 +120,44 @@
        
 * [FoldingCell](https://github.com/Ramotion/folding-cell-android)
     - ![FoldingCell](https://github.com/Ramotion/folding-cell-android/raw/master/folding_cell_preview.gif)  
-       
 
-       
+* [CircularProgressIndicator](https://github.com/antonKozyriatskyi/CircularProgressIndicator)
+    - ![CircularProgressIndicator](https://github.com/antonKozyriatskyi/CircularProgressIndicator/raw/master/art/3_2.png)  
+    - https://github.com/tankery/CircularSeekBar
+    - ![CircularProgressIndicator](https://github.com/tankery/CircularSeekBar/raw/master/art/capture.jpg)
+
+* [State Layout](https://github.com/fingdo/stateLayout)
+    - https://github.com/lufficc/StateLayout
+    - ![stateLayout](https://github.com/fingdo/stateLayout/raw/master/gif/stateLayout.gif)  
+
+* [Country Picker Dialog](https://github.com/mukeshsolanki/country-picker-android)
+    - ![Country Picker Dialog](https://raw.githubusercontent.com/mukeshsolanki/country-picker-android/master/Screenshot_20160506-152951.png)  
+
+* [Popup Menu](https://github.com/skydoves/PowerMenu)
+    - ![Popup Menu](https://user-images.githubusercontent.com/24237865/32500436-c52b02ec-c418-11e7-8027-9aceb5cbe368.gif)  
+
+* [ShapeOfView](https://github.com/florent37/ShapeOfView)
+    - ![ShapeOfView](https://raw.githubusercontent.com/florent37/ShapeOfView/master/medias/main_small.png)  
+
+
+
+
+#### Rx
+
+* [Rx Download](https://github.com/ssseasonnn/RxDownload)
+    - Rx ile download 
+
+#### Kotlin
+
+* [Kotlin Extensions](https://github.com/android/android-ktx)
+    - Yardımcı kotlin extension fonksiyonları
+    - https://github.com/pawegio/KAndroid
+
 ---
 ---
-     
 
+> Javascript
 
-## Javascript
 * [Mousetrap](https://github.com/ccampbell/mousetrap) 
     - Klavye kısayolu oluşturabilirsiniz.
 
@@ -140,11 +168,33 @@
     - Modern javascript klavuzu.
     - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 
+* [Modern Javascript CheatSheet](https://quilljs.com/)
+    - https://github.com/quilljs/quill
+    - Editor
+
+
+
 ---
 ---  
 
->## Statistics - Machine Learning - Deep Learning - NLP
-  
+
+---
+---
+
+> HTML & CSS
+
+* [Tabler](https://github.com/tabler/tabler) 
+    - Dashboard Panel
+    - ![Tabler](https://camo.githubusercontent.com/cd92edc2d8fa925325026c2f13dc827e6063d333/68747470733a2f2f7461626c65722e6769746875622e696f2f6173736574732f696d616765732f64617368626f6172642e706e67)    
+
+---
+--- 
+
+
+
+
+> Statistics - Machine Learning - Deep Learning - NLP
+
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) 
     - Doğal dil işleme (NLP) nedir?
     - Machine Learning nedir?
@@ -166,10 +216,13 @@
 * [Datasets](https://github.com/caesar0301/awesome-public-datasets) 
     - Ücretsiz bir şekilde birçok veri setine ulaşabileceğiniz kaynakları bulabilirsiniz.
 
+* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) 
+    - Makine öğrenmesini 100 başlık altında inceler
+
 ---
 ---
 
->## Useful Links
+> Useful Links
 
  * [System Design Primer](https://github.com/donnemartin/system-design-primer)
     - Sistemler nasıl tasarlanır?
@@ -188,12 +241,17 @@
 
 * [DeepStream IO](https://github.com/deepstreamIO/deepstream.io)
     - Firebase benzeri sistem kurulumu
-    - Server ve client 
-    
-  
+    - Server ve client
+
+* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+    - Tüm konular hakkında kaynaklar sunar
+    - Öğrenci özelinde ki indirimler, kampanyalar vs.
+    - Konferanslar
+
+
 ---
 ---
->## Useful Sites
+> Useful Sites
 
 * [Codrops](https://tympanus.net/codrops/)
     - Çok farklı tasarımlara sahip toollar ile websitenizi modern görünüme kavuştarabilirsiniz.
@@ -221,7 +279,7 @@
 
 ---
 ---
->## Useful Tools
+> Useful Tools
 * [Surge](http://surge.sh/)
   - Static web sayfası barındırma hizmeti
   - Free
@@ -234,7 +292,6 @@ speed and reliability. In practical terms, any directory that contains a package
 * [Gatsby](https://www.gatsbyjs.org/)
     - Blazing-fast static site generator for React
     - https://github.com/gatsbyjs/gatsby
-    - ![Gatsby](https://www.gatsbyjs.org/static/9a128a5a2429ea5dd16c7f7d2252adde-72ad0.png) 
 
 * [Fastlane](https://fastlane.tools/)
     - https://github.com/fastlane/fastlane
@@ -245,5 +302,15 @@ speed and reliability. In practical terms, any directory that contains a package
     - Ekran görüntüsü otomasyonu
     - Google Play Store upload
   
+* [Find](https://www.internalpositioning.com/)
+    - https://github.com/schollz/find
+    - Indoor Positioning
+    - Wifi sinyallerini dinleyerek 1-2 metre hassasiyetine sahip indoor location bilgisi toplanır.
 
+* [Strapi](https://strapi.io/)
+    - https://github.com/strapi/strapi/
+    - Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
+    - Açık kaynaklı içerik yönetim aracı.
+    - Mongo, Postgre, MySql üzerinde çalışabilir.
+    - Otomatik bir şekilde içerik yönetimi için API oluşumu sağlar.
  
